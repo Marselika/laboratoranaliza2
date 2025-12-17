@@ -1,5 +1,5 @@
 #  Wine Data Analysis & Recommendation Project
-
+##### Student: Iatco Marcel
 ##  Descriere Generală
 Acest proiect are ca scop analiza unui set de date despre vinuri, combinând **analiza numerică**, **analiza textuală a descrierilor**, **corelații statistice** și **vizualizări avansate**, precum și dezvoltarea unei **aplicații interactive** pentru explorarea datelor.  
 Proiectul urmărește identificarea relațiilor dintre **preț**, **rating (points)**, **alcool**, **descrierea textuală** și **soiul de struguri**, precum și evaluarea raportului **preț/calitate**.
